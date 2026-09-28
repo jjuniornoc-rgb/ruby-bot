@@ -1,0 +1,13 @@
+/.bundle/
+/vendor/bundle/
+*.gem
+*.rbc
+
+# Environment & Config
+.env
+discloud.token
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
